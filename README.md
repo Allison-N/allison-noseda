@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @allison-noseda
+- 👋 Hi, I’m @Allison-N
 - 👀 I’m interested in analytics and data science
 - 🌱 I’m currently learning excel and python 
 - 📫 How to reach me ... allison.noseda@gmail.com 
